@@ -1,0 +1,5 @@
+pkg install git python
+git clone https://github.com/jepluk/subdomain_finder
+pip install requests bs4
+cd subdomain_finder
+python run.py
